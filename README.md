@@ -1,3 +1,5 @@
+# Please remember this is basically a sample study and in no way a serious project as for now
+
 # Project Democracy
 
 **Project Democracy** is aiming to bring true democracy by bringing back legislative, executive and judiciary power in the hand of its people.
